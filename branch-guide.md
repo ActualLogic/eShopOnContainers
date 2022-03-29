@@ -1,4 +1,4 @@
-# eShopOnContainers - BRANCH GUIDE
+# eShopOnContainers - BRANCH GUIDEch 
 
 Following are the most important branches:
 
