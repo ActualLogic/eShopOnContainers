@@ -59,5 +59,10 @@
 	},
 	"hostRequirements": {
 		"storage": "40gb" 
-	 }
+	},
+	"portsAttributes": {
+		"8081": {
+			"label": "Main Site"
+		}
+	}
 }
